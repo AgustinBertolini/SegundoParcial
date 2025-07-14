@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|c:\\users\\agus\\source\\repos\\segundoparcial\\segundoparcial\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\stripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|c:\\users\\agus\\source\\repos\\segundoparcial\\segundoparcial\\mercadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\mercadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|c:\\users\\agus\\source\\repos\\segundoparcial\\segundoparcial\\adaptadorstripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\adaptadorstripe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|c:\\users\\agus\\source\\repos\\segundoparcial\\segundoparcial\\procesadorpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\procesadorpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|c:\\users\\agus\\source\\repos\\segundoparcial\\segundoparcial\\adaptadormercadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\adaptadormercadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|c:\\users\\agus\\source\\repos\\segundoparcial\\segundoparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D0788-BF42-4937-B498-C4ED13462081}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdaptadorStripe.cs",
+              "DocumentMoniker": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\AdaptadorStripe.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\AdaptadorStripe.cs",
+              "ToolTip": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\AdaptadorStripe.cs",
+              "RelativeToolTip": "SegundoParcial\\AdaptadorStripe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:29:43.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stripe.cs",
+              "DocumentMoniker": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\Stripe.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\Stripe.cs",
+              "ToolTip": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\Stripe.cs",
+              "RelativeToolTip": "SegundoParcial\\Stripe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:27:11.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdaptadorMercadoPago.cs",
+              "DocumentMoniker": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\AdaptadorMercadoPago.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\AdaptadorMercadoPago.cs",
+              "ToolTip": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\AdaptadorMercadoPago.cs",
+              "RelativeToolTip": "SegundoParcial\\AdaptadorMercadoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:24:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MercadoPago.cs",
+              "DocumentMoniker": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\MercadoPago.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\MercadoPago.cs",
+              "ToolTip": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\MercadoPago.cs",
+              "RelativeToolTip": "SegundoParcial\\MercadoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:21:00.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcesadorPagos.cs",
+              "DocumentMoniker": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\ProcesadorPagos.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\ProcesadorPagos.cs",
+              "ToolTip": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\ProcesadorPagos.cs",
+              "RelativeToolTip": "SegundoParcial\\ProcesadorPagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:51:26.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\Program.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\Agus\\source\\repos\\SegundoParcial\\SegundoParcial\\Program.cs",
+              "RelativeToolTip": "SegundoParcial\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T22:16:08.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
